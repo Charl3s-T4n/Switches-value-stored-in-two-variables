@@ -5,7 +5,7 @@ b = input("b: ")
 
 ####################################
 #Write your code below this line 👇
-new_variable = a                      
+new_variable = a                       # Where the magic happens
 a = b
 b = new_variable
 
